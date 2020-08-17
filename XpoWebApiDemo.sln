@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XpoWebApiDemo", "XpoWebApiDemo\XpoWebApiDemo.csproj", "{EB20516C-8DA1-4271-9CF2-616181779CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XpoWebApiClientApp", "XpoWebApiClientApp\XpoWebApiClientApp.csproj", "{31649528-4FCB-47AB-B93A-F7A85E028BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB20516C-8DA1-4271-9CF2-616181779CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB20516C-8DA1-4271-9CF2-616181779CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB20516C-8DA1-4271-9CF2-616181779CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB20516C-8DA1-4271-9CF2-616181779CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31649528-4FCB-47AB-B93A-F7A85E028BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31649528-4FCB-47AB-B93A-F7A85E028BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31649528-4FCB-47AB-B93A-F7A85E028BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31649528-4FCB-47AB-B93A-F7A85E028BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C1197A1-905E-44C7-833A-31CBD192B4EE}
+	EndGlobalSection
+EndGlobal

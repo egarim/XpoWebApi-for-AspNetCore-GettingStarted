@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BIT.Xpo.Providers.WebApi.AspNetCore" Version="20.1.6.583631780" />
+  </ItemGroup>
+
+
+</Project>
